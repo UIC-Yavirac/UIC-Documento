@@ -1,4 +1,4 @@
-package uic.documento.feature.document;
+package uic.documento.document;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

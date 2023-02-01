@@ -1,4 +1,4 @@
-package uic.documento.feature.document;
+package uic.documento.document;
 
 import java.util.List;
 import org.springframework.data.repository.CrudRepository;
