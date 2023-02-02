@@ -12,8 +12,8 @@ public class Document {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-  
+
     private long documentId;
-    private String documentSchool;
+    private String observation;
     
 }
